@@ -428,7 +428,7 @@ h2 {
 }
 
 section.t {
-  max-width: 900px; /* limits text width for readability */
+  /* max-width: 900px;  */
   margin: 0 auto;
   padding: 2rem;
 }
@@ -436,6 +436,7 @@ section.t {
 section.t h1 {
   font-size: 2rem;
   margin-bottom: 1rem;
+  text-align: center;
   color: var(--primary-color);
 }
 
